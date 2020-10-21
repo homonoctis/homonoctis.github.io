@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First POst!"
+title:  "First Post!"
 date:   2020-10-20 22:42:45 +0000
 categories: jekyll update
 ---
